@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maruf Emre
 - 👀 I’m interested in Backend Development and Machine Learning
+- 💼 I have 2+ years of professional experience building enterprise trading systems with Java and Spring Boot.
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/karataymarufemre/)
 
