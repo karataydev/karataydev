@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maruf Emre
+- 👋 Hi, I’m Maruf Emre Karatay
 - 👀 I’m interested in Backend Development and Machine Learning
 - 💼 I have 2+ years of professional experience building enterprise trading systems with Java and Spring Boot.
 - 🌱 I’m currently learning Go.
